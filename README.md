@@ -7,4 +7,4 @@ In this project, I took the premise of the trolley problem and brought it into t
 
 In the actual implementation of the game, I inserted the users into several different moral dilemma experiences in the self-driving car in which they have to choose between two difficult situations e.g killing 3 men or all passengers. 
 
-https://github.com/aoifeodty/VR_FYP_ODoherty/blob/master/VRMoralMachine.mp4 
+video of game: https://github.com/aoifeodty/VR_FYP_ODoherty/blob/master/VRMoralMachine.mp4 
